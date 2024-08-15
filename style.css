@@ -1,0 +1,125 @@
+body{
+    background-image:url("https://tse2.mm.bing.net/th?id=OIP.3CGY51Hr5_v6FftCdmtk2AHaEK&pid=Api&P=0&h=180") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+    
+*{
+    text-decoration: none;
+    
+    
+}
+.nav-bar{
+    background-color: crimson; 
+    font-family: calibri;
+    padding-right: 15px;
+    padding-left: 15px;
+    height: 75px;
+
+}
+.navdiv{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+    
+.logo {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding-left: 30%;
+   border-radius: 5px;
+   height: 70px;
+}
+
+.logo img {
+    width: 70px;
+    height: 70px;
+    vertical-align: left;
+}
+li{
+    list-style: none;
+    display: inline-block;
+}
+li a{
+    color:white;
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 25px;
+}
+a:hover, a:active{
+    background-color: aqua;
+    font-size: 16px;
+    font-weight: bold;
+}
+.div1{
+    display: flex;
+    justify-content: space-between;
+    padding: 7px;
+    margin: 10px;
+}
+div .p1{
+
+    background-color: rebeccapurple;
+    width:350px;
+}
+div .p2{
+    background-color: rebeccapurple;
+    width:1050px;
+     
+}
+    
+*{
+    text-decoration: none;
+    
+    
+}
+.nav{
+    background-color:forestgreen; 
+    font-family: calibri;
+    padding-right: 15px;
+    padding-left: 15px;
+    height: 90px;
+
+}
+.div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+    
+.logo img{
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding-left: 30%;
+    border-radius: 40%;
+}
+
+.logo img {
+    width: 70px;
+    height: 70px;
+    vertical-align: left;
+    border-radius: 50%;
+}
+img{
+    border-radius: 50%;
+}
+li{
+    list-style: none;
+    display: inline-block;
+}
+li a{
+    color:white;
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 25px;
+}
+a:hover, a:active{
+    background-color: aqua;
+    font-size: 16px;
+    font-weight: bold;
+}
